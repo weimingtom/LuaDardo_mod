@@ -1,0 +1,5 @@
+import 'package:lua/lua.dart' as lua;
+
+void main(List<String> arguments) {
+  print('Hello world: ${lua.calculate()}!');
+}
