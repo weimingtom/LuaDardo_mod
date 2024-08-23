@@ -1,5 +1,5 @@
 # LuaDardo_mod
-My mod of LuaDardo
+My mod of LuaDardo, https://github.com/arcticfox1919/LuaDardo    
 
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
